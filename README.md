@@ -28,7 +28,7 @@
 このときUnityのバージョンが違うと色々言われるけど、OKとかContinueとかしてたらOK
 (使ってるバージョンは2020.3.26)
 
-* 問題にチャレンジしてCLEARの文字が画面に出れば
+* 問題にチャレンジしてCLEARの文字が画面に出ればOK!次の問題にチャレンジだ！
 <img width="772" alt="スクリーンショット 2022-04-09 12 24 49" src="https://user-images.githubusercontent.com/6568021/162554659-42e0f1dd-d701-45ee-8d1b-b3f9efed3b1b.png">
 
 
