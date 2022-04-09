@@ -4,9 +4,8 @@ using UnityEngine;
 
 public class Tester : MonoBehaviour
 {
-    [SerializeField] QuestionCode questionCode;
     private void Start()
     {
-        questionCode.Hoge();
+        QuestionCode.Hoge();
     }
 }
