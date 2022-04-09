@@ -18,7 +18,7 @@
 
 
 # 進め方
-こちらの動画を参考：
+こちらの動画を参考：https://youtu.be/UOYOTC97kZQ  
 * GitHubのアカウントを作成する([無料](https://www.winschool.jp/download/online/text/guide_regist_github.pdf))
 * GitHubDesktopをダウンロードしておく([無料](https://desktop.github.com/)/[導入参考サイト](https://crestadesign.org/github-desktop/#GitHub_Desktop-4))
 * Codeボタンを押して、Open with GitHub Desktopを押し、プロジェクトをPCに落としてくる
@@ -40,6 +40,7 @@
 
 
 # 次の問題にいくには？
+動画解説：https://youtu.be/sHxombJ81hs  
 * Branchを切り替えればOK
 * UnityでReloadするかきかれるのでReloadする
 <img width="815" alt="スクリーンショット 2022-04-09 12 41 02" src="https://user-images.githubusercontent.com/6568021/162555058-33304a69-ba60-4dd2-b0bd-ea8090ab1e5a.png">
