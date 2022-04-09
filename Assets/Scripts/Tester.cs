@@ -4,7 +4,6 @@ using UnityEngine;
 
 public class Tester : MonoBehaviour
 {
-    QuestionCode questionCode;
     private void Start()
     {
         QuestionCode.Hoge();
