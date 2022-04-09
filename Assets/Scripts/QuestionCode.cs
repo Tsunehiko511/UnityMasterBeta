@@ -5,10 +5,9 @@ using UnityEngine.UI;
 
 public class QuestionCode : MonoBehaviour
 {
-    [SerializeField] Text text;
-
-    private void Start()
+    [SerializeField] Text taskText;
+    public void Hoge()
     {
-        text.text = "StudioShimazu最高！！！";
+        taskText.text = "CLEAR";
     }
 }
