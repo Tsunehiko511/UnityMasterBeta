@@ -6,7 +6,7 @@ public class Tester : MonoBehaviour
 {
     private void Start()
     {
-        GameObject questionCodeObj = GameObject.Find("HUHUHUHUHU");
+        GameObject questionCodeObj = GameObject.Find("QuestionCode");
         QuestionCode questionCode = questionCodeObj.GetComponent<QuestionCode>();
         questionCode.Hoge();
     }
