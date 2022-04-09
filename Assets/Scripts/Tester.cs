@@ -4,9 +4,10 @@ using UnityEngine;
 
 public class Tester : MonoBehaviour
 {
-    [SerializeField] QuestionCode questionCode;
     private void Start()
     {
+        GameObject questionCodeObj = GameObject.Find("HUHUHUHUHU");
+        QuestionCode questionCode = questionCodeObj.GetComponent<QuestionCode>();
         questionCode.Hoge();
     }
 }
