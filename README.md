@@ -32,7 +32,7 @@
 <img width="772" alt="スクリーンショット 2022-04-09 12 24 49" src="https://user-images.githubusercontent.com/6568021/162554659-42e0f1dd-d701-45ee-8d1b-b3f9efed3b1b.png">
 
 
-# 問題をやり直すには？
+# 問題をやり直すには？GitHubで困った時は？
 * GitHubDesktopでDiscardすればOK
 * Discardは画像の赤いとこを右クリックだよ！
 <img width="475" alt="スクリーンショット 2022-04-09 12 39 41" src="https://user-images.githubusercontent.com/6568021/162554958-af88ed03-85e6-4ff4-8627-5db24a8e2cf7.png">
