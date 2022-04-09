@@ -41,6 +41,7 @@
 
 # 次の問題にいくには？
 * Branchを切り替えればOK
+* UnityでReloadするかきかれるのでReloadする
 <img width="815" alt="スクリーンショット 2022-04-09 12 41 02" src="https://user-images.githubusercontent.com/6568021/162555058-33304a69-ba60-4dd2-b0bd-ea8090ab1e5a.png">
 <img width="724" alt="スクリーンショット 2022-04-09 12 41 15" src="https://user-images.githubusercontent.com/6568021/162555061-4c2178d1-8c84-4d61-90f0-28c61ede8d8e.png">
 
