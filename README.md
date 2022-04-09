@@ -44,11 +44,12 @@
 * Branchを切り替えればOK
 * UnityでReloadするかきかれるのでReloadする
 <img width="815" alt="スクリーンショット 2022-04-09 12 41 02" src="https://user-images.githubusercontent.com/6568021/162555058-33304a69-ba60-4dd2-b0bd-ea8090ab1e5a.png">
+* データがのこってると、そのデータは残しとく？次の問題に持っていく？ってきかれるから残しとくを選択
 <img width="724" alt="スクリーンショット 2022-04-09 12 41 15" src="https://user-images.githubusercontent.com/6568021/162555061-4c2178d1-8c84-4d61-90f0-28c61ede8d8e.png">
 
 
 
-# 問題一覧
+# 問題一覧（制作中）
 さぁ！！やってみよう！  
 * main:テキストの変更
 * Question2:ボタンによるシーンの移動  
