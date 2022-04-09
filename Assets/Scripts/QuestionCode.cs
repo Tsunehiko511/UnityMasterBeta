@@ -6,7 +6,7 @@ using UnityEngine.UI;
 public class QuestionCode : MonoBehaviour
 {
     [SerializeField] Text taskText;
-    public void Hoge()
+    public void Start()
     {
         taskText.text = "CLEAR";
     }
