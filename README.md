@@ -1,7 +1,7 @@
 # スタジオしまづUnity問題集（Beta）とは
 ・Unity初学者のための問題集  
 ・ここのプロジェクトを落として問題を解くことで、<b>実践的なUnityの使い方を理解できること</b>を目的にしている  
-・動画でサクッと:https://youtu.be/YgaDwGvde5I
+・動画でサクッと:https://youtu.be/YgaDwGvde5I  
 ・おすすめするUnityのバージョン：2020.3.26
 
 # なぜやるのか？
