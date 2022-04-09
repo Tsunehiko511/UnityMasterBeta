@@ -576,7 +576,7 @@ MonoBehaviour:
       m_Calls: []
   m_FontData:
     m_Font: {fileID: 10102, guid: 0000000000000000e000000000000000, type: 0}
-    m_FontSize: 50
+    m_FontSize: 48
     m_FontStyle: 0
     m_BestFit: 0
     m_MinSize: 3
@@ -587,7 +587,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "Tester.cs\u3092\u66F8\u304D\u63DB\u3048\u3066QuestionCode.cs\u306E\u95A2\u6570Hoge\u3092\u5B9F\u884C\u305B\u3088"
+  m_Text: "QuestionCode.cs\u3092\u66F8\u304D\u63DB\u3048\u3066Tester.cs\u304B\u3089\u95A2\u6570Hoge\u3092\u5B9F\u884C\u305B\u3088"
 --- !u!222 &1374652960
 CanvasRenderer:
   m_ObjectHideFlags: 0
