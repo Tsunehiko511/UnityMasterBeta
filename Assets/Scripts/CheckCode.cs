@@ -10,7 +10,7 @@ public class CheckCode : MonoBehaviour
 
     private void Update()
     {
-        if (text.text == "StudioShimazu")
+        if (text.text == "StudioShimazu最高！！！")
         {
             clearText.text = "CLEAR";
         }
