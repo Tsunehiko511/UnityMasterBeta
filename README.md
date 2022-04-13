@@ -20,7 +20,7 @@
 
 # 進め方
 こちらの動画を参考：https://youtu.be/UOYOTC97kZQ  
-* GitHubのアカウントを作成する([無料](https://www.winschool.jp/download/online/text/guide_regist_github.pdf))
+* GitHubのアカウントを作成してサインインしておく([無料](https://www.winschool.jp/download/online/text/guide_regist_github.pdf))
 * GitHubDesktopをダウンロードしておく([無料](https://desktop.github.com/)/[導入参考サイト](https://crestadesign.org/github-desktop/#GitHub_Desktop-4))
 * 画像を参考にCodeボタンを押して、Open with GitHub Desktopを押し、プロジェクトをPCに落としてくる
  <img width="470" alt="スクリーンショット 2022-04-09 12 15 39" src="https://user-images.githubusercontent.com/6568021/162554396-b89dc5b5-30b3-47f0-adaa-25a08db6e865.png">
