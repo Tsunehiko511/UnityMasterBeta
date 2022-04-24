@@ -211,6 +211,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 292390574}
+  - component: {fileID: 292390573}
   m_Layer: 0
   m_Name: QuestionCode
   m_TagString: Untagged
@@ -218,6 +219,19 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
+--- !u!114 &292390573
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 292390572}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec66e37956fb7454db29432398890cca, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  taskText: {fileID: 155128469}
 --- !u!4 &292390574
 Transform:
   m_ObjectHideFlags: 0
@@ -451,7 +465,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "\u6F14\u7FD2\u554F\u984C7"
+  m_Text: "\u6F14\u7FD2\u554F\u984C8"
 --- !u!222 &690610878
 CanvasRenderer:
   m_ObjectHideFlags: 0
